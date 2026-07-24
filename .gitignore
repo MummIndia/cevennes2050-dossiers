@@ -1,3 +1,31 @@
+# Secrets et configuration locale.
+# Ce depot est public : rien de tout cela ne doit y arriver, meme via un
+# `git add .` distrait.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*.json
+client_secret*.json
+service-account*.json
+*token*.json
+.netrc
+
+# Configuration d'outils locaux (chemins et reglages propres a la machine)
+.claude/
+.vscode/
+.idea/
+
+# Brouillons et donnees de travail non destinees a la publication
+brouillons/
+_scratch/
+
+# Fichiers temporaires
 *.tmp
+*~
 .DS_Store
+Thumbs.db
 __pycache__/
