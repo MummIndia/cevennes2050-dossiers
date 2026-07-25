@@ -1,7 +1,10 @@
 # Cévennes 2050 — Dossiers & données
 
-Livrables et données de plaidoyer de l'association **Cévennes 2050**.
-Documents factuels, sourcés et datés, destinés aux élus et partenaires.
+Dossiers de plaidoyer **factuels, sourcés et datés**, destinés aux élus et
+partenaires.
+
+Travail personnel, réalisé pour l'association **Cévennes 2050**, qui en est la
+destinataire. Les dossiers sont publiés ici pour pouvoir être repris ailleurs.
 
 ## Organisation
 - `logement/` — habitat permanent, vacance, meublés touristiques (Lasalle, Saint-Jean-du-Gard).
